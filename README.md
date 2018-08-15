@@ -1,3 +1,3 @@
-# React surprise drill starting point
+# React surprise drill
 
-[GitHub](https://github.com/Thinkful-Ed/react-surprise-starting-point)
+[GitHub (Reed's work)](https://github.com/rbertolette/tf-rb-react-surprise.git)
